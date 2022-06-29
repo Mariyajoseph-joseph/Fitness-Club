@@ -1,0 +1,247 @@
+.nav1
+{
+    background-color: #db7586;
+}
+.button1{
+    background-color: black;
+    color: white;
+    border: 2px black solid;
+}
+.button1:hover{
+    color: black;
+    background-color: #db7586;
+}
+.firstdiv
+{
+   background-color:#f7889cfb;
+    padding-top: 238px;
+    padding-left: 100px;
+   
+}
+.button2{
+    color: grey;
+    border: white solid 3px;
+    border-radius: 100px;
+    width: 150px;
+    height: 50px;
+    background-color: white;
+  
+}
+.button2:hover{
+    background-color: rgb(226, 215, 215);
+}
+#firstrow
+{
+    height: 700px;
+    background-color:#f7889cfb;
+    width: 1361px;
+}
+
+
+.image2{
+    width: 700px;
+    padding-left: 150px;
+}
+#b2
+{
+    color: darkblue;
+    padding-right: 100px;
+    padding-top: 127px;
+    padding-left: 80px;
+}
+#button3:hover{
+    color: palevioletred;
+    background-color: rgb(203, 203, 221);
+}
+#button3{
+    background-color: pink;
+    color: grey; 
+    height: 50px;
+    width: 150px;
+    border: 3px; 
+}
+ .thirdrow{
+     background-color:#f7889cfb ;
+     width: 1361px;
+     height: 60px;
+
+ }
+ #heading5{
+     text-align: center;
+ }
+
+.firstcarousel{
+    height: 500px;
+    background-color: #f7889cfb;
+}
+
+#carous1{
+    padding-left: 450px;
+    padding-top: 50px;
+    height: 350px;
+    width: 900px;
+}
+#carous2{
+    padding-left: 450px;
+    padding-top: 50px;
+    height: 350px;
+    width: 900px;
+}
+
+.secondcarousel{
+    height: 500px;
+    background-color: #f7889cfb;
+}
+.thirdcarousel{
+    height: 500px;
+    background-color: #f7889cfb;
+}
+
+#carous3{
+    padding-left: 450px;
+    padding-top: 50px;
+    height: 350px;
+    width: 900px;
+}
+
+#c3{
+    padding-left: 150px;
+    color: rgb(9, 9, 82);
+    padding-top: 100px;
+}
+
+#image6{
+    width: 500px;
+}
+
+#row5{
+    background-color: #f78c9e;
+}
+
+#c8
+{
+    color: white;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.footerbar{
+    width: 1358px;
+    height: 110px;
+    background-color: rgb(13, 54, 54);
+    color: white;
+}
+
+#lastbutton{
+    border: 3px white solid;
+    background-color: orange;
+    border-color: orange; 
+    
+
+}
+#lastbutton:hover
+{
+    background-color: rgb(83, 72, 51);
+    border-color: rgb(70, 66, 58);
+}
+
+.group{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+#g1{
+    background-color: rgb(9, 78, 38);
+    padding-bottom: 1px;
+}
+#g2{
+    padding-left: 173px;
+    padding-top: 10px;
+    color: white;
+   
+  
+}
+
+#g3{
+    padding-top: 10px;
+    background-color: rgb(9, 78, 38);
+    color: white;
+    padding-left: 171px;
+
+}
+
+.icons{
+    padding-left: 20px;
+}
+
+
+#row6{
+    background-color: #db7586;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 27px;
+}
+
+#row6images{
+    width: 250px;
+    border-radius: 300px ;
+    border: white 10px solid;
+    margin-left: 60px;
+    
+   
+}
+
+#row6images:hover{
+    box-shadow: 10px 10px 10px 10px rgb(228, 209, 192);
+}
+#description{
+    color: white;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+#head1{
+color: white;
+padding-left: 70px;
+padding-top: 10px;
+}
+
+#row6col1{
+   
+    padding-top: 10px;
+   
+}
+.headi1{
+    margin-left: 30px;
+}
+.headi2{
+    margin-left: 20px;
+}
+
+
+
+
+.o1{
+    margin-left: 200px;
+}
+
+#o2{
+    margin-left: 50px;
+    color: rgb(66, 66, 209);
+}
+
+.o4{
+margin-left: 400px;
+background-color: rgb(226, 78, 103);
+    color: rgb(243, 231, 231); 
+    height: 50px;
+    width: 150px;
+    border: 3px;
+    font-size: 20px;
+
+}
+.o4:hover{
+    background-color: blue;
+    color:rgb(252, 252, 252);
+    border: 2px blue solid;
+}
